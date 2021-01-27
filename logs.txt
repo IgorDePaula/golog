@@ -1,0 +1,5 @@
+INFO: 2021/01/27 09:05:34 main.go:26: Starting the application...
+INFO: 2021/01/27 09:05:34 main.go:27: Something noteworthy happened
+WARNING: 2021/01/27 09:05:34 main.go:28: There is something you should know about
+ERROR: 2021/01/27 09:05:34 main.go:29: Something went wrong
+ERROR: 2021/01/27 09:54:40 main.go:11: ERRO passei por aqui
